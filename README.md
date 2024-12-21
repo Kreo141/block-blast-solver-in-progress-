@@ -6,11 +6,11 @@ This project automates the detection of "blank" and "non-blank" tiles from a gri
 
 ## Features
 
-1. **Take Screenshot of Target Window:**
+1. **Take Screenshot of Target Window (I will host this (create a web user interface) after i finish developing the engine and enable user to upload their screenshots of the game <:):**
    - Captures a screenshot of a specific window.
    - Crops out borders and title bar for accurate grid processing.
 
-2. **Grid-Based Image Processing:**
+2. **Grid-Based Image Processing (this will be dynamic soon):**
    - Divides an image into an 8x8 grid.
    - Calculates average color values for each grid cell.
    - Saves the average color data in a text file.
