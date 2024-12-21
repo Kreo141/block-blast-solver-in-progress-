@@ -1,4 +1,4 @@
-# BlockBlast Solver (under construction)
+# Block Blast Solver (under construction)
 
 This project automates the detection of "blank" and "non-blank" tiles from a grid-based visual interface, such as a game or image, using Python. It processes screenshots of the interface, divides them into grids, calculates the average color of each grid cell, and identifies "blank" cells using machine learning.
 
