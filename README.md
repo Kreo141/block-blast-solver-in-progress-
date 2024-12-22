@@ -121,4 +121,3 @@ Generates a grid visualization of blank and non-blank cells.
 
 1. Add support for dynamic grid sizes.
 2. Train the classifier with diverse datasets for better generalization.
-3. Enhance visualization with interactive or larger grids.
